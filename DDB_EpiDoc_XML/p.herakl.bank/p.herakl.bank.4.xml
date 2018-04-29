@@ -109,7 +109,7 @@
 <lb n="7"/><expan>ὑπ<ex>όλοιπον</ex></expan> <num value="1100">Αρ</num> <g type="slanting-stroke"/><g type="slanting-stroke"/>
 <lb n="7"/><note xml:lang="en">vacat ca 6.5 cm</note>
 <lb n="8"/><expan>πρᾶσ<ex>ις</ex></expan> <expan>χρυ<ex>σίου</ex></expan>
-<lb n="8"/><space extent="unknown" unit="character"/> 
+<lb n="9"/><space extent="unknown" unit="character"/> 
 </ab> </div>
 </div>
 
@@ -145,10 +145,10 @@
 <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <num value="200">σ</num> <app type="alternative"><lem>Ἡ<gap reason="illegible" quantity="1" unit="character"/><unclear>α</unclear></lem><rdg><abbr>Ἡ<unclear>ρα</unclear></abbr></rdg></app> <app type="alternative"><lem><abbr><gap reason="illegible" quantity="1" unit="character"/>η</abbr></lem><rdg><abbr><unclear>Β</unclear>η</abbr></rdg></app> <expan><ex>τάλαντα</ex></expan> <num value="12">ιβ</num> <num value="3600">Γχ</num>
 <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <num value="100"><supplied reason="lost">ρ</supplied></num> <expan>Ψενεβῆ<ex>σις</ex></expan> <app type="alternative"><lem><abbr><unclear>Ἁρ</unclear><gap reason="illegible" quantity="4" unit="character"/></abbr></lem><rdg><expan><unclear>Ἁρπεβή</unclear><ex>κιος</ex></expan></rdg></app> <abbr><unclear>β</unclear>1.</abbr> <expan><ex>τάλαντα</ex></expan> <num value="6">ϛ</num> <num value="1800">Αω</num>
 <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <expan><ex>γίνεται</ex></expan> <abbr>χρυ</abbr> <num value="400">υ</num> χαλ <expan><ex>τάλαντα</ex></expan> <num value="25">κ<unclear>ε</unclear></num> <num value="900">ϡ</num>
-6  <gap reason="lost" extent="unknown" unit="character"/> <expan>ἔγλο<ex>γος</ex></expan> <abbr>χρυ</abbr> <num value="1400">Αυ</num>
+<lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <expan>ἔγλο<ex>γος</ex></expan> <abbr>χρυ</abbr> <num value="1400">Αυ</num>
 <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <expan><ex>γίνεται</ex></expan> <num value="1800">Α<unclear>ω</unclear></num> <expan><ex>ὧν</ex></expan>
 <lb n="8"/><space extent="unknown" unit="character"/>
-<lb n="8"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="9"/><gap reason="lost" extent="unknown" unit="line"/>
 </ab></div>
 
 <div n="2" subtype="part" type="textpart"><ab>
@@ -171,7 +171,7 @@
 <lb n="7"/><expan><supplied reason="lost">ὑ</supplied><unclear>π</unclear><ex>όλοιπον</ex></expan> <num value="1300">Α<unclear>τ</unclear></num> <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/> 
 <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <space extent="unknown" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
 <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> <space extent="unknown" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
-<lb n="9"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="10"/><gap reason="lost" extent="unknown" unit="line"/>
 </ab></div> 
 </div>
 
@@ -184,9 +184,9 @@
 <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>α</unclear><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
 <lb n="6"/><abbr><gap reason="lost" extent="unknown" unit="character"/><unclear>α</unclear>πω</abbr> <gap reason="lost" extent="unknown" unit="character"/>
 <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <expan><ex>γίνεται</ex></expan> <num atLeast="181" atMost="189">ρπ<gap reason="lost" extent="unknown" unit="character"/></num>
-<lb n="7"/><space quantity="1" unit="line"/>
-<lb n="8"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> σπη<gap reason="lost" extent="unknown" unit="character"/>
-<lb n="8"/><space extent="unknown" unit="line"/>
+<lb n="8"/><space quantity="1" unit="line"/>
+<lb n="9"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> σπη<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="10"/><space extent="unknown" unit="line"/>
 
 </ab> </div>
 
