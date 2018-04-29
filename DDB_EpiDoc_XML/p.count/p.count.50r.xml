@@ -112,7 +112,7 @@
 <lb n="57"/>Ταίμουθις <expan>γυ<ex>νή</ex></expan>
 <lb n="58"/>Ἀπολλώνιος <note xml:lang="en">followed by traces of an older text</note>
 <lb n="59"/>Τσένυρις <expan>γ<unclear>υ</unclear><ex>νή</ex></expan>
-60 <g type="parens"/> Θεοξένα Νικ<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="60"/><g type="parens"/> Θεοξένα Νικ<gap reason="lost" extent="unknown" unit="character"/>
 <lb n="61"/><g type="parens"/> Ἀρίστων Πτ<supplied reason="lost">ολεμαίου </supplied><gap reason="lost" extent="unknown" unit="character"/>
 <lb n="62"/><g type="parens"/> Ἀπολλώνιος <gap reason="lost" quantity="4" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
 <lb n="63"/><g type="parens"/> Θά<unclear>ησ</unclear>ις <expan>γυ<ex>νή</ex></expan>
