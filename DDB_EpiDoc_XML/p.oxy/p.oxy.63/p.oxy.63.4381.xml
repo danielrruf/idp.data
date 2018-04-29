@@ -94,10 +94,10 @@
 <q><foreign xml:lang="la">si nu<unclear>ll</unclear></foreign><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" quantity="5" unit="character"/><gap reason="illegible" quantity="2" unit="character"/>
 <foreign xml:lang="la">a<unclear>s</unclear> exer<gap reason="lost" quantity="10" unit="character"/><supplied reason="lost"> pos</supplied>sessiones <gap reason="lost" quantity="10" unit="character"/><unclear>e</unclear>ne<gap reason="illegible" quantity="2" unit="character"/><unclear>qu</unclear></foreign><gap reason="lost" quantity="20" unit="character"/>
 <foreign xml:lang="la">argent<gap reason="lost" atLeast="5" atMost="10" unit="character"/><gap reason="illegible" quantity="5" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></foreign></q>
-<lb n="11"/><gap reason="lost" extent="unknown" unit="line"/>
+<lb n="12"/><gap reason="lost" extent="unknown" unit="line"/>
 </ab></div><div n="v" type="textpart"><ab>
 
-    <lb n="12"/> πρόσταξις τοῦ κυρίου μου δουκός.</ab></div></div>
+    <lb n="13"/> πρόσταξις τοῦ κυρίου μου δουκός.</ab></div></div>
       </body>
    </text>
 </TEI>
