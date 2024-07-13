@@ -66,8 +66,7 @@
     <lb n="6"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap> <expan>κ<ex>ωμο</ex>γρ<ex>αμματεως</ex></expan>
 <expan>γε<hi rend="superscript">ωρ</hi><ex>γεῖ</ex></expan> <num value="12">ιβ</num><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
 
-    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><abbr>ησφ<hi rend="superscript">υ</hi></abbr> ἐκ <expan><ex>τοῦ</ex></expan>
-<expan>Ἀπολλ<hi rend="superscript"><unclear>ω</unclear></hi><ex>νίου</ex></expan> <num value="2">β</num> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><abbr>ησφ<hi rend="superscript">υ</hi></abbr> ἐκ <expan><ex>τοῦ</ex></expan> <expan>Ἀπολλ<hi rend="superscript"><unclear>ω</unclear></hi><ex>νίου</ex></expan> <num value="2">β</num> <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
 
     <lb n="8"/><supplied reason="lost">Κ</supplied><unclear>ά</unclear>στορος <num value="1">α</num> <expan><ex>γίνονται</ex></expan> <expan><ex>ἄρουραι</ex></expan> <num value="16"><unclear>ιϛ</unclear></num><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
 <gap reason="lost" extent="unknown" unit="line"/>
